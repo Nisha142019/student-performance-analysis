@@ -44,6 +44,5 @@ It’s a small data analysis project I built while learning Python and data scie
 ##  About This Project
 I created this as part of my learning journey in *machine learning and data analysis* during my BSc (Hons) Computer Science degree.  
 It helped me understand the basics of data cleaning, visualization, and simple predictive modeling.
-
-📍 Birmingham, UK  
-📅 October 2025
+ Birmingham, UK  
+October 2025
